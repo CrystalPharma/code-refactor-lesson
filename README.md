@@ -9,9 +9,9 @@ Not applicable
 Access into the website using the active link attached: https://crystalpharma.github.io/code-refactor-lesson/
 
 ## Credits
-Horiseon Marketing Agency,
-Code Refactor Lesson,
-W3 School
+- Horiseon Marketing Agency
+- Code Refactor Lesson
+- W3 School
 
 ## License
 MIT License
