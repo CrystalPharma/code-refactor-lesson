@@ -17,3 +17,4 @@ Access into the website using the active link attached: https://crystalpharma.gi
 MIT License
 
 ## Badges
+[![GitHub Primary Language](https://img.shields.io/github/languages/top/CrystalPharma/code-refactor-lesson?color=orange)](https://github.com/CrystalPharma/code-refactor-lesson)
