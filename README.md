@@ -1,6 +1,6 @@
 # Horiseon website
 ## Description
-Working together with marketing sgency Horiseon, we produced the following web application that follows the accessibility standards that is optimised for search engines as follow.
+Working together with marketing agency Horiseon, we produced the following web application that follows the accessibility standards that is optimised for search engines as follow.
 
 ## Installation
 Not applicable
