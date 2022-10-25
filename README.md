@@ -18,4 +18,5 @@ MIT License
 
 ## Badges
 [![GitHub Primary Language](https://img.shields.io/github/languages/top/CrystalPharma/code-refactor-lesson?color=orange)](https://github.com/CrystalPharma/code-refactor-lesson)
-[![GitHub License]](https://img.shields.io/github/license/CrystalPharma/code-refactor-lesson)(https://github.com/CrystalPharma/code-refactor-lesson)
+[![GitHub License](https://img.shields.io/github/license/CrystalPharma/code-refactor-lesson)](https://github.com/CrystalPharma/code-refactor-lesson)
+
