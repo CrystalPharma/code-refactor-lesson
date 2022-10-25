@@ -1,19 +1,19 @@
-#Horiseon website
-##Description
+# Horiseon website
+## Description
 Working together with marketing sgency Horiseon, we produced the following web application that follows the accessibility standards that is optimised for search engines as follow.
 
-##Installation
+## Installation
 Not applicable
 
-##Usage
+## Usage
 Access into the website using the active link attached: https://crystalpharma.github.io/code-refactor-lesson/
 
-##Credits
+## Credits
 Horiseon Marketing Agency
 Code Refactor Lesson
 W3 School
 
-##License
+## License
 MIT License
 
-##Badges
+## Badges
